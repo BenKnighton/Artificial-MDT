@@ -1,0 +1,4 @@
+/Users/benkn/Documents/ArtificialMDT/Artificial_Memory/Folder1/21.jpg <break> 1 hot dog, 
+/Users/benkn/Documents/ArtificialMDT/Artificial_Memory/Folder1/IMG_6605.jpg <break> 
+/Users/benkn/Documents/ArtificialMDT/Artificial_Memory/Folder1/IMG_7540.jpeg <break> 
+/Users/benkn/Documents/ArtificialMDT/Artificial_Memory/Folder1/x.jpg <break> 1 hot dog, 
